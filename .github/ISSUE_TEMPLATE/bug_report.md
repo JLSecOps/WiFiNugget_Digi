@@ -1,1 +1,1 @@
-
+# Template for reporting bugs
