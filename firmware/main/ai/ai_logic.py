@@ -1,6 +1,4 @@
 # Core AI behavior and evolution logic
-## ai_logic.py
-```python
 class AILogic:
     def __init__(self):
         self.stage = "egg"
@@ -17,4 +15,3 @@ class AILogic:
     def gain_xp(self, amount):
         self.xp += amount
         self.evolve()
-```
