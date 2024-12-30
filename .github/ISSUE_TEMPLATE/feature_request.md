@@ -1,1 +1,1 @@
-# Template for feature requests
+# Feature Request

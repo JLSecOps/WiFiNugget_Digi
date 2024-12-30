@@ -1,1 +1,1 @@
-# OLED display rendering
+# Display Logic

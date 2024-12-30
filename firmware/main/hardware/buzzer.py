@@ -1,1 +1,1 @@
-# Buzzer control logic
+# Buzzer Logic

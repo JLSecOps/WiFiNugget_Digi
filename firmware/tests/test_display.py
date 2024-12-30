@@ -1,1 +1,0 @@
-# Display and interface tests

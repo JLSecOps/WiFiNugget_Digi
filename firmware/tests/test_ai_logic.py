@@ -1,1 +1,4 @@
-# Unit tests for AI module
+import unittest
+
+class TestAILogic(unittest.TestCase):
+    pass

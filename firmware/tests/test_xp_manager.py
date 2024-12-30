@@ -1,1 +1,4 @@
-# Unit tests for XP system
+import unittest
+
+class TestXPManager(unittest.TestCase):
+    pass
